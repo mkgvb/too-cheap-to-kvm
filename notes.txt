@@ -1,0 +1,13 @@
+
+
+Monitor Device Name: "\\.\DISPLAY2\Monitor0"
+Monitor Name: "PX329"
+Serial Number: ""
+Adapter Name: "Intel(R) Iris(R) Xe Graphics"
+Monitor ID: "MONITOR\PNS0329\{4d36e96e-e325-11ce-bfc1-08002be10318}\0016"
+
+Monitor Device Name: "\\.\DISPLAY3\Monitor0"
+Monitor Name: "CJG9S"
+Serial Number: "H1AK500000"
+Adapter Name: "Intel(R) Iris(R) Xe Graphics"
+Monitor ID: "MONITOR\SAM9596\{4d36e96e-e325-11ce-bfc1-08002be10318}\0021"
