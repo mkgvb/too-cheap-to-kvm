@@ -7,3 +7,5 @@
 
 .\ControlMyMonitor.exe /SetValue "CJG9S" 60 9
 .\ControlMyMonitor.exe /SetValue "PX329" 60 17
+
+TIMEOUT 5
