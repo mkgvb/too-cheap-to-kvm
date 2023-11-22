@@ -10,8 +10,9 @@ rem Switch MX Anywhere 3 to channel 2
 @REM 9 is DP1
 
 @REM changes values? newest at bottom
-.\ControlMyMonitor.exe /SetValue "MONITOR\SAM0F9C\{4d36e96e-e325-11ce-bfc1-08002be10318}\0002" 60 6 
-.\ControlMyMonitor.exe /SetValue "MONITOR\SAM0F9C\{4d36e96e-e325-11ce-bfc1-08002be10318}\0009" 60 6
+@REM .\ControlMyMonitor.exe /SetValue "MONITOR\SAM0F9C\{4d36e96e-e325-11ce-bfc1-08002be10318}\0002" 60 6 
+@REM .\ControlMyMonitor.exe /SetValue "MONITOR\SAM0F9C\{4d36e96e-e325-11ce-bfc1-08002be10318}\0009" 60 6
+.\ControlMyMonitor.exe /SetValue "SAM0F9C" 60 6
 
 @REM PIXIO
 @REM 18 HDMI2 ?
