@@ -5,7 +5,8 @@
 @REM Switch MX Anywhere 3 to channel 1
 .\hidapitester.exe --vidpid 046D/C548 --usage 0x0001 --usagePage 0xFF00 --open --length 7 --send-output 0x10,0x01,0x0a,0x1b,0x00,0x00,0x00
 
-.\ControlMyMonitor.exe /SetValue "CJG9S" 60 9
+@REM Get these in ControlMyMonitor with Ctr + M
+.\ControlMyMonitor.exe /SetValue "SAM0F99" 60 9
 .\ControlMyMonitor.exe /SetValue "PX329" 60 17
 
 TIMEOUT 5
